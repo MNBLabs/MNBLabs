@@ -1,16 +1,12 @@
-## Hi there 👋
+# ![MNBLabs](https://github.com/user-attachments/assets/0b17ca46-1b08-439a-932e-99c497b2b7ac)
 
-<!--
-**MNBLabs/MNBLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👋 Hi, I’m **@MildKing**, Owner of **MNBLabs**.
+- 👀 Passionate about **Coding** and **Innovation**.
+- 🌱 Currently expanding my skills in **Development**.
+- 💼 Open to collaborating with like-minded creators and tech enthusiasts.
+- 📫 Help me reach my crown and make an impact!
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!---
+MnbDEV/MnbDEV is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
