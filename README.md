@@ -1,6 +1,6 @@
 # ![MNBLabs](https://github.com/user-attachments/assets/0b17ca46-1b08-439a-932e-99c497b2b7ac)
 
-- 👋 Hi, I’m **@MildKing**, Owner of **MNBLabs**.
+- 👋 Hi, I’m **@MildKing**, Owner of **Manubrium**.
 - 👀 Passionate about **Coding** and **Innovation**.
 - 🌱 Currently expanding my skills in **Development**.
 - 💼 Open to collaborating with like-minded creators and tech enthusiasts.
